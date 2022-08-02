@@ -1,0 +1,15 @@
+C:\Users\renato\Documents\exenumcomposit\bin\Debug\net6.0\exenumcomposit.exe
+C:\Users\renato\Documents\exenumcomposit\bin\Debug\net6.0\exenumcomposit.deps.json
+C:\Users\renato\Documents\exenumcomposit\bin\Debug\net6.0\exenumcomposit.runtimeconfig.json
+C:\Users\renato\Documents\exenumcomposit\bin\Debug\net6.0\exenumcomposit.dll
+C:\Users\renato\Documents\exenumcomposit\bin\Debug\net6.0\ref\exenumcomposit.dll
+C:\Users\renato\Documents\exenumcomposit\bin\Debug\net6.0\exenumcomposit.pdb
+C:\Users\renato\Documents\exenumcomposit\obj\Debug\net6.0\exenumcomposit.csproj.AssemblyReference.cache
+C:\Users\renato\Documents\exenumcomposit\obj\Debug\net6.0\exenumcomposit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renato\Documents\exenumcomposit\obj\Debug\net6.0\exenumcomposit.AssemblyInfoInputs.cache
+C:\Users\renato\Documents\exenumcomposit\obj\Debug\net6.0\exenumcomposit.AssemblyInfo.cs
+C:\Users\renato\Documents\exenumcomposit\obj\Debug\net6.0\exenumcomposit.csproj.CoreCompileInputs.cache
+C:\Users\renato\Documents\exenumcomposit\obj\Debug\net6.0\exenumcomposit.dll
+C:\Users\renato\Documents\exenumcomposit\obj\Debug\net6.0\ref\exenumcomposit.dll
+C:\Users\renato\Documents\exenumcomposit\obj\Debug\net6.0\exenumcomposit.pdb
+C:\Users\renato\Documents\exenumcomposit\obj\Debug\net6.0\exenumcomposit.genruntimeconfig.cache
